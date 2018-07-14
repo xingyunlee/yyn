@@ -25,3 +25,4 @@
 10.66.86.178:3306
 
 JA64JQKN
+update version;
